@@ -1,0 +1,1 @@
+Here a user will select a sport for the initial set up of their sporting profile. Please select Football to continue. The Ludus application currently has only been mocked up for the one sport in particular.

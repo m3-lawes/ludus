@@ -1,0 +1,1 @@
+Welcome to the application’s homepage. When this app is built natively, this will be displayed just after the initial loading screen. On this page you can see what functionality the application has to offer through the use of the image slider. From this page you can navigate to both the Login and Sign up areas of the app.

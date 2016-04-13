@@ -1,0 +1,1 @@
+Here a user will enter all their personal details for setting up an account. Please select ‘Register’ to continue.

@@ -1,0 +1,1 @@
+This is where a user would login to the application with their chosen preference. A user can either login with username and password or login with via Facebook. Please select ‘Login’ to move forward to your Player Profile.

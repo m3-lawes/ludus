@@ -1,0 +1,1 @@
+This page is just a design mockup showcasing what the visual aesthetics of the edit profile page will look like. Please select ‘Done’ or ‘Cancel’ to move forwards. Future development will allow the ability to change your profile information such as bio and images.

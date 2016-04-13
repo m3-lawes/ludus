@@ -1,0 +1,1 @@
+Welcome to the settings page for the app. Here you will have the ability to turn on/off notifications and access all legal aspects to Ludus. Select the back button to navigate back to you user profile. 

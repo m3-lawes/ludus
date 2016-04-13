@@ -1,0 +1,1 @@
+This page acts as a pulsating feature. Inspiration has been taken from the competitor application Tinder. This feature acts as a pre-loader on a timer to then view potential players to match in the card stack. The card stack will load after 5 seconds. Please wait!

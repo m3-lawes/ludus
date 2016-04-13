@@ -1,0 +1,1 @@
+This page is a mockup of what the Reset Your Password screen will look like. The input field does not work at this moment in time. This implementation is seen to be a future development. Please select the ‘Send’ button to continue.

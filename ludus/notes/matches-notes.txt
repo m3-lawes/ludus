@@ -1,0 +1,1 @@
+Here is essentially a dashboard of your match history. From this dashboard you will be able to see all previous matches and conversations. Click on a conversation to see more.
